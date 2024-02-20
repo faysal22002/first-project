@@ -239,5 +239,32 @@ border-radius: 10px;
     text-transform: capitalize;
     background-color: azure;
 }
+/* footer */
+.finishing{
+    display: flex;
+    margin: 40px 50px;
+}
+.left-side{
+    text-align: center;
+}
+.Connect{
+    font-size: 40px;
+}
+.comment{
+   
+}
+.fa-brands{
+    font-size: 50px;
+    margin: 20px;
+    background-color:black;
+    color: white;
+    border-radius: 10px;
+}
+.right-side{
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: 20px;
+}
+
 
 
