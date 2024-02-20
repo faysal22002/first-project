@@ -175,3 +175,57 @@ border-radius: 10px;
     margin: 15px;
 }
 
+/* resumi content */
+.parental-div{
+    display: flex;
+    margin: 50px 40px;
+    background-color: rgb(221, 218, 218);
+    padding: 30px;
+
+}
+.head{
+    font-size: 40px;
+    font-weight:bold;
+    text-transform:capitalize;
+    color: rgb(182, 1, 10);
+
+}
+.school-title{
+    font-size: 30px;
+    font-weight:bold;
+    text-transform:capitalize;
+
+}
+.school-name{
+    font-size: 20px;
+    font-weight:bold;
+    text-transform:capitalize;
+}
+.about-school{
+
+}
+.experince{
+    font-size: 40px;
+    font-weight:bold;
+    text-transform:capitalize;
+    color: rgb(38, 0, 255);
+}
+.first-work{
+    font-size: 30px;
+    font-weight:bold;
+    text-transform:capitalize;
+}
+.second-work{
+    font-size: 20px;
+    font-weight:bold;
+    text-transform:capitalize;
+}
+.third-work{
+
+}
+.section-title{
+    text-transform: capitalize;
+    background-color: azure;
+}
+
+
