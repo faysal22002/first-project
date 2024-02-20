@@ -242,7 +242,15 @@ border-radius: 10px;
 /* footer */
 .finishing{
     display: flex;
-    margin: 40px 50px;
+   gap: 100px;
+   margin: 50px 300px;
+}
+.submit{
+   font-size: 40px;
+   background-color: black;
+   color: white;
+   border: 0;
+   border-radius: 10px;
 }
 .left-side{
     text-align: center;
